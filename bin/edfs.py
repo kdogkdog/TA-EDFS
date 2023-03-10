@@ -1,3 +1,4 @@
+#!/bin/python2
 """ dummy place holder modular input to enable Embedded Dashboards for Splunk config """
 __author__ = 'Michael Uschmann / MuS'
 __date__ = 'Copyright $Oct 25, 2018 11:00:00 AM$'
